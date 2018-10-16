@@ -14,4 +14,4 @@ if __name__ == '__main__':
 
         print("".join(mylist))
 
-print("Calvin And Hobbes Are The First Spacemen On Mars")
+print("Calvin And Hobbes Are The First Spacemen On Mars.")
